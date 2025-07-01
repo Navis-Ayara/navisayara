@@ -34,6 +34,12 @@ header {
     flex-direction: column;
 }
 
+@media screen and (max-width: 320px) {
+    .content {
+        padding-inline: 10px;
+    }
+}
+
 main {
     flex: 1;
 }
@@ -42,6 +48,15 @@ h1 {
     font-size: 48px;
     font-weight: normal;
     padding-block: 30px;
+}
+
+@media screen and (max-width: 425px) {
+    .content {
+        padding-inline: 15px;
+    }
+    h1 {
+        font-size: 36px;
+    }
 }
 
 h2 {
