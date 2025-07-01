@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 21px;
+    border-bottom: 3px solid black;
+    user-select: none;
+}
