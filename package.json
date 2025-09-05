@@ -1,0 +1,19 @@
+{
+  "name": "navisayara",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navis-Ayara/navisayara.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navis-Ayara/navisayara/issues"
+  },
+  "homepage": "https://github.com/Navis-Ayara/navisayara#readme",
+  "description": ""
+}
