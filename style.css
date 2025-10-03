@@ -40,6 +40,10 @@ h1 {
 
 }
 
+a {
+    color: var(--dark-brown);
+}
+
 main {
     height: 100%;
     width: 100%;
