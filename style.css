@@ -38,7 +38,6 @@ h1 {
     font-family: 'Playfair Display';
     font-weight: 400;
     line-height: 1.6;
-
 }
 
 a {
@@ -71,14 +70,15 @@ main {
 }
 
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
     .hero h1 {
-        font-size: 42px;
+        font-size: 72px;
         padding-block: 30px;
         line-height: normal;
     }
     .hero-subtext {
         max-width: fit-content;
         font-size: 16px;
+        font-weight: 400;
     }
 }
